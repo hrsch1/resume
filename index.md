@@ -10,7 +10,7 @@ main-style:
   </div>
   <div class="col-12 col-md-3 float-left">
     <p class="mb-1"><a href="mailto:herschelnlevy@gmail.com">herschelnlevy@gmail.com</a></p>
-    <p class="mb-1"><a href="tel:5713522612">571-359-2437</a></p>
+    <p class="mb-1"><a href="tel:5713522612">571-352-2612</a></p>
   </div>
 </div>
 
@@ -105,11 +105,6 @@ Organized, focused, and hard working high school student with 4.0 GPA. Looking t
 - Gym (3 days/week)
 - Hockey (9 years)
 - CrossFit (1 year)
-
-## Volunteering
-{: .border-0 .mb-0 .mt-5 .h5-mktg}
-
-
 
 ## Skills
 {: .border-0 .mb-0 .mt-5 .h5-mktg}
