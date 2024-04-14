@@ -9,13 +9,12 @@ main-style:
     <h1 class="h2-mktg border-0 mb-0 mt-0">Talia Levy</h1>
   </div>
   <div class="col-12 col-md-3 float-left">
-    <p class="mb-1"><a href="mailto:talia@hey.com">talia@hey.com</a></p>
-    <p class="mb-1"><a href="tel:5713592437">571-359-2437</a></p>
-    <p><a href="https://tslevy.github.io/linkinbio/">tslevy.github.io/linkinbio/</a></p>
+    <p class="mb-1"><a href="mailto:herschelnlevy@gmail.com">herschelnlevy@gmail.com</a></p>
+    <p class="mb-1"><a href="tel:5713522612">571-359-2437</a></p>
   </div>
 </div>
 
-Organized and motivated high school student with 4.3 GPA and 5+ years of experience tutoring math. Looking to use a positive attitude and patience with others to give customers a great experience.
+Organized, focused, and hard working high school student with 4.0 GPA. Looking to use a positive attitude and patience with others to give customers a great experience.
 {: .lead .mt-0}
 
 ## Work
@@ -23,28 +22,28 @@ Organized and motivated high school student with 4.3 GPA and 5+ years of experie
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
-    <a href="https://taliastutoring.com/" class="link-mktg">Talia’s Tutoring</a>
+    <a href="(https://github.com/hrsch1/portfolio)/" class="link-mktg">Fashion designing</a>
   </div>
   <div class="col-3 d-inline-block">
-    2018-present
+    2019-present
   </div>
 </div>
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
-    Special projects intern at SwimKids
+    Land care and yard work
   </div>
   <div class="col-3 d-inline-block">
-    2023-present
+    2019-2021
   </div>
 </div>
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
-    Front desk customer service at SwimKids
+    Dog walking and pet sitting
   </div>
   <div class="col-3 d-inline-block">
-    2023-present
+    2019-2021
   </div>
 </div>
 
@@ -53,19 +52,10 @@ Organized and motivated high school student with 4.3 GPA and 5+ years of experie
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
-    Hylton High School GPA: 4.3
+    Forest Park High School GPA: 4.0
   </div>
   <div class="col-3 d-inline-block">
-    2020-present
-  </div>
-</div>
-
-<div class="border-bottom py-2">
-  <div class="col-8 d-inline-block">
-    Center for International Studies and Language Program
-  </div>
-  <div class="col-3 d-inline-block">
-    2021-present
+    2022-present
   </div>
 </div>
 
@@ -108,37 +98,18 @@ Organized and motivated high school student with 4.3 GPA and 5+ years of experie
   </div>
 </div>
 
-<div class="border-bottom py-2">
-  <div class="col-8 d-inline-block">
-    Italy Student Exchange
-  </div>
-  <div class="col-3 d-inline-block">
-    April 2022
-  </div>
-</div>
-
-<div class="border-bottom py-2">
-  <div class="col-8 d-inline-block">
-    Costa Rica
-  </div>
-  <div class="col-3 d-inline-block">
-    June 2019
-  </div>
-</div>
-
 ## Extracurricular Activities
 {: .border-0 .mb-0 .mt-5 .h5-mktg}
 
-- [Self-Development Blog](https://world.hey.com/talia/)
-- [Money Moves for Teens Podcast](https://pglevy.github.io/mm4t-site/) (40 episodes)
+- Fashion designing (3 days/week)
 - Gym (3 days/week)
-- Softball (9 years)
+- Hockey (9 years)
 - CrossFit (1 year)
 
 ## Volunteering
 {: .border-0 .mb-0 .mt-5 .h5-mktg}
 
-- Chabad Center for Jewish Life, Gainesville
+
 
 ## Skills
 {: .border-0 .mb-0 .mt-5 .h5-mktg}
