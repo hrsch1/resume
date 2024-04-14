@@ -6,7 +6,7 @@ main-style:
 
 <div class="container clearfix">
   <div class="col-12 col-md-8 float-left">
-    <h1 class="h2-mktg border-0 mb-0 mt-0">Talia Levy</h1>
+    <h1 class="h2-mktg border-0 mb-0 mt-0">Herschel Levy</h1>
   </div>
   <div class="col-12 col-md-3 float-left">
     <p class="mb-1"><a href="mailto:herschelnlevy@gmail.com">herschelnlevy@gmail.com</a></p>
