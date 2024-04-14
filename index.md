@@ -22,7 +22,7 @@ Organized, focused, and hard working high school student with 4.0 GPA. Looking t
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
-    <a href="(https://github.com/hrsch1/portfolio)/" class="link-mktg">Fashion designing</a>
+    <a href="https://hrsch1.github.io/portfolio" class="link-mktg">Fashion designing</a>
   </div>
   <div class="col-3 d-inline-block">
     2019-present
