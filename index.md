@@ -26,7 +26,7 @@ title: Home
 - Hockey (9 years)
 - CrossFit (1 year)
 
-## Skills
+### Skills
 
 - English (Native)
 - Spanish (Basic)
@@ -35,6 +35,6 @@ title: Home
 - Problem-solving
 - Organization
 
-## References
+### References
 
 Available upon request
