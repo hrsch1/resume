@@ -14,6 +14,7 @@ title: Home
 
 ### Travel
 
+- Canada
 - France Student Exchange
 - Spain (school trip)
 - Indonesia
@@ -21,16 +22,16 @@ title: Home
 
 ### Extracurricular Activities
 
-- Fashion designing (3 days/week)
-- Create custom, client-tailored clothing
+- Fashion design (3 days/week)
+- Custom, client-tailored clothing
 - Gym (3 days/week)
 - Hockey (9 years)
 - CrossFit (1 year)
-- Live streamer
-- Building computers
-- Volunteer for Chemistry Tutoring
-- Volunteer for NAMI
-- Concessionaire for Forest Park
+- Live stream (2 days/week)
+- Build computers
+- Chemistry Honor Society Tutoring (2 days/week)
+- NAMI Volunteer (1 day/week)
+- Concessionaire for Forest Park (1 day/month)
 
 ### Skills
 
