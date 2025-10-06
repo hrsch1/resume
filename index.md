@@ -22,7 +22,7 @@ title: Home
 
 ### Extracurricular Activities
 
-- Fashion CLub President at Forest Park
+- Fashion Club President
 - Fashion design (3 days/week)
 - Custom, client-tailored clothing (3 times/week)
 - Gym (3 days/week)
